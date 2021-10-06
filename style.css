@@ -155,7 +155,7 @@ section .title::after{
 }
 /* home section styling */
 .home{
-    background-color:#111;
+    /*background-color:#111;*/
     display: flex;
     background: url("images/t.JPG") no-repeat center;
     height: 100vh;
