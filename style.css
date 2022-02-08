@@ -157,7 +157,8 @@ section .title::after{
 .home{
     /*background-color:#111;*/
     display: flex;
-    background: url("images/myimg.JPG") no-repeat center;
+    background: #111
+    
     height: 100vh;
     color:#111;
     min-height: 500px;
