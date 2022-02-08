@@ -155,10 +155,9 @@ section .title::after{
 }
 /* home section styling */
 .home{
-    /*background-color:#111;*/
+    background-color:#111;
     display: flex;
-    background: #111
-    
+    /*background: url("images/myimg.JPG") no-repeat center;*/
     height: 100vh;
     color:#111;
     min-height: 500px;
